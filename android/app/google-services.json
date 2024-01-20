@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "735934649968",
+    "project_id": "kripo-f6018",
+    "storage_bucket": "kripo-f6018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934649968:android:3733703dfe53f2e55b46b5",
+        "android_client_info": {
+          "package_name": "com.kripo.deliveryman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwADIyLFrGIQmLTSUmP0lYVRxgYU-wBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735934649968-933sffcq4gr0llbd4r7597ek7gdrpp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kripo.deliveryman"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934649968:android:d908e0ca6820e5f75b46b5",
+        "android_client_info": {
+          "package_name": "com.kripo.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwADIyLFrGIQmLTSUmP0lYVRxgYU-wBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735934649968-933sffcq4gr0llbd4r7597ek7gdrpp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kripo.deliveryman"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934649968:android:3bcde9c97294cc4e5b46b5",
+        "android_client_info": {
+          "package_name": "com.kripo.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwADIyLFrGIQmLTSUmP0lYVRxgYU-wBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735934649968-933sffcq4gr0llbd4r7597ek7gdrpp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kripo.deliveryman"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934649968:android:cb230c4cbe5ecd085b46b5",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixam_mart_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwADIyLFrGIQmLTSUmP0lYVRxgYU-wBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735934649968-933sffcq4gr0llbd4r7597ek7gdrpp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kripo.deliveryman"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934649968:android:3502396889dc9d095b46b5",
+        "android_client_info": {
+          "package_name": "com.kripo.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwADIyLFrGIQmLTSUmP0lYVRxgYU-wBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735934649968-933sffcq4gr0llbd4r7597ek7gdrpp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kripo.deliveryman"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735934649968:android:2e8e25a467fbb8885b46b5",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixam_mart_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwADIyLFrGIQmLTSUmP0lYVRxgYU-wBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735934649968-1t3q9ksb4bttgjf7q3hvg3603voip63a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735934649968-933sffcq4gr0llbd4r7597ek7gdrpp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kripo.deliveryman"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
